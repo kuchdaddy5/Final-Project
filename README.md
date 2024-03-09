@@ -3,6 +3,8 @@
 
 ## Created by Tyler Kuchan at Syracuse University
 
+The question I researched was what does it take for teams in the NHL to make it to the playoffs, as well as to become Stanley Cup Champions.
+
 'finalprojectTKK.ipynb'
 Includes code for the final project of this class. Enjoy.
 
